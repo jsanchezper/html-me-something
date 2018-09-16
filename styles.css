@@ -1,0 +1,47 @@
+body {
+    background-color: white;
+	margin:25px 50px 75px 100px;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+	font: sans-serif;
+	text-decoration: underline;
+	
+}
+
+p {
+    
+    font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: #7D775C;
+    text-align: left;
+
+}
+
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #B7A5DF;
+	}
+	
+section { color: black;
+    text-align: left;
+	font: sans-serif;
+	padding: 10px
+	
+	}
+	
+p.footer { color: grey;
+    text-align: left;
+	font: sans-serif;
+	
+	}
+
+#current { color: blue;
+    text-align: left;
+	font: sans-serif;
+	
+	}
